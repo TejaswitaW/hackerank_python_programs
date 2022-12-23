@@ -1,0 +1,1 @@
+This repository contains my hackerank python practice code.
